@@ -10,8 +10,8 @@ To use these notebooks:
 5. Open the notebook
 
 Files (Recommended order for understanding):
-1. Basic_Math.ipynb
-2. Functions.ipynb 
+1. 1_Basic_Math.ipynb
+2. 2_Functions.ipynb 
 3. If_Lists.ipynb
 4. Units.ipynb
 5. Math_Images.ipynb
