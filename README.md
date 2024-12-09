@@ -11,8 +11,9 @@ To use these notebooks:
 
 Files (Recommended order for understanding):
 1. 1_Basic_Math.ipynb
-2. 2_Functions.ipynb 
-3. If_Lists.ipynb
-4. Units.ipynb
-5. Math_Images.ipynb
+2. 2_Functions.ipynb
+### ! The Following are under construction ! ###
+4. If_Lists.ipynb
+5. Units.ipynb
+6. Math_Images.ipynb
 
